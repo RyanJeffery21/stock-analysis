@@ -14,3 +14,7 @@
 ![2018 Runtime](https://github.com/RyanJeffery21/stock-analysis/blob/079a961bab53e8e7863ad16c20ac60645aa7cd8e/VBA_Challenge_2018.png)
 
 By adding arrays and a ticker index, we were able to loop through the data much faster and more efficiently than before.
+(https://github.com/RyanJeffery21/stock-analysis/blob/b8dbe2dc2f94e386b06396fa8c2ddf456e5ffa2e/tickerIndex.txt)
+
+## Summary
+  Refactoring code is advantageous when taking a code that has been shown to work on a smaller scale and adapting to run on a larger project.  Having written the initial code gave us the advantage of knowing how it worked and how best to apply it to a broader set of data.  Difficulties could arise when working with code that we are unfamiliar with or are unable to decipher.  Both codes used in this exercise relied on the data being organized alphabetically in order to function, furthur coding could be done to organize the data in case new information is added.
