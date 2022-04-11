@@ -10,3 +10,5 @@
  
  As we can see, most stocks performed well in 2017 but only ENPH and RUN had positive returns in 2018.  Refactoring our code not only allowed us to run the script for the entire database, but also reduced processing time.  The original code ran in roughly half a second, while the refactored code significantly reduced the processing time.
  
+![2017 Runtime](https://github.com/RyanJeffery21/stock-analysis/blob/3e142fc7cdae7a92005b4f0312eebb29960dda6c/VBA_Challenge_2017.png)
+![2018 Runtime](
